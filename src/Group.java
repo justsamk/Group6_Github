@@ -1,5 +1,5 @@
 //Group Project
-public class group {
+public class Group {
 
   public static void main(String[] args) {
     // Main
