@@ -10,7 +10,10 @@ public class Group {
     System.out.println(power(3, 3));
     System.out.println(power(6, 2));
   }
-
+  static String groupMembers() {
+	    return "Charlie Thompson, Samantha Keller, Esha Attiq , Carlos Herrera, Timara White";
+  }
+  
   static String charlie() {
     return "Charlie Thompson";
   }
