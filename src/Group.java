@@ -22,6 +22,9 @@ public class Group {
     String sam = "Samantha Keller";
     return sam;
   }
+  public String eshaName(){
+	  return "Esha Attiq";
+  }
 
   // calculates integer division num1/num2, should throw an Arithmetic exception
   // if num2 is 0, or the result of num1/num2 is not a whole number.
