@@ -26,6 +26,10 @@ public class Group {
 	  return "Esha Attiq";
   }
 
+  public static String Timara() {
+    return "Timara White"; 
+  }
+	
   // calculates integer division num1/num2, should throw an Arithmetic exception
   // if num2 is 0, or the result of num1/num2 is not a whole number.
   static int divide(int num1, int num2) {
