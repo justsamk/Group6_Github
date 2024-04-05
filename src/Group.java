@@ -17,6 +17,10 @@ public class Group {
   static String charlie() {
     return "Charlie Thompson";
   }
+	
+  static String carlos() {
+    return "Carlos Herrera";
+  }
 
   public static String Sam() {
     String sam = "Samantha Keller";
